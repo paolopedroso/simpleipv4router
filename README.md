@@ -49,15 +49,7 @@ Modify the Mininet and POX controller files to meet the project requirements. Te
 
 ## Deliverables
 
-1. **project.pdf**: Detailed report with implementation and testing screenshots.
-2. **final.py**: Mininet topology code.
-3. **final_controller_skel.py**: POX controller code.
+2. **topo_skel.py**: Mininet topology code.
+3. **controller_skel.py**: POX controller code.
 4. **README.txt**: Explanation of the submission.
 
-## Grading Rubric
-
-- **Mininet Topology (20 points)**: Correct creation of devices, links, and IP addresses.
-- **POX Controller (60 points)**: Proper implementation of communication rules and traffic blocks.
-- **Report Quality (20 points)**: Clear illustration of implementation and testing results.
-
-By following these guidelines and using the provided skeleton code, you will create a functional IPv4 router that meets the project requirements.
