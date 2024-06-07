@@ -4,6 +4,7 @@ This project involves implementing a simple router for a Large Language Model (L
 
 ## Devices and IP Addresses
 ![image](https://github.com/paolopedroso/simpleipv4router/assets/108847100/3d6b0b71-a109-4052-9e75-7c8242512e38)
+
 **Floor 1 Hosts (Department A)**
 - h101: 128.114.1.101/24
 - h102: 128.114.1.102/24
